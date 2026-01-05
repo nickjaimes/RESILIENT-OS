@@ -4,11 +4,6 @@ ResilientOS: The Seven-Layer Operating System for Wise Systems 🌊🔥🌍
 
 "Intelligence builds power. Wisdom decides whether power should be used at all."
 
-https://img.shields.io/badge/Rust-1.65%2B-orange.svg
-https://img.shields.io/badge/License-Seven_Principles-blue.svg
-https://img.shields.io/github/actions/workflow/status/resilient-os/core/rust.yml
-https://img.shields.io/badge/docs-whitepaper-brightgreen
-
 Overview 🔭
 
 ResilientOS is a revolutionary operating system architecture based on the Seven Elements of Resilient Intelligence. Unlike conventional systems optimized solely for efficiency, ResilientOS embeds wisdom, ethics, and purpose as foundational principles. It's not just about what a system can do, but what it should do.
